@@ -5,6 +5,7 @@
             "ParsaaghayiJpegOptimizer\\" : "src/"
         }
     },
+    "license": "MIT",
     "authors": [
         {
             "name": "parsa aghayi",
