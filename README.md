@@ -1,6 +1,6 @@
 # jpegoptimizer
 you can use it to resize and optimize your jpeg files in best quality and file size together.
-this package use <a href="https://imagemagick.org/" target="_blank" rel="noopener noreferrer">imagemagick</a> .
+this package use <a href="https://imagemagick.org/" target="_blank" rel="noopener noreferrer">imagemagick</a>; so you must install it first.
 you can resize and optimize your images in any sizes you want, TOGETHER!<br>
 Only in One Line :<br>
 <code>
