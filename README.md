@@ -13,5 +13,5 @@ use ParsaaghayiJpegOptimizer\JpegOptimizer;
 $test = new JpegOptimizer;
 $test->optimize('../images/1','80',150,360);
 </pre>
-this code will create a folder and name it "resized", in it we have two folders: "150x" & "360x". all images in directoy "../images/1" will optimze to quality "80" and will resize to 150px (width) and 360px (width).
+this code will create a folder and name it "resized", the create two folders in it: "150x" & "360x". all images in directoy "../images/1" will optimze to quality "80" and will resize to 150px (width) and 360px (width).
 
