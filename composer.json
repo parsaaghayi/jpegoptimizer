@@ -1,0 +1,15 @@
+{
+    "name": "parsaaghayi/jpegoptimizer",
+    "autoload": {
+        "psr-4": {
+            "ParsaaghayiJpegOptimizer\\" : "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "parsa aghayi",
+            "email": "parsa.aghaee@gmail.com"
+        }
+    ],
+    "require": {}
+}
