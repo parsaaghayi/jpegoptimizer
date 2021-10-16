@@ -3,9 +3,9 @@ you can use it to resize and optimize your jpeg files in best quality and file s
 this package use <a href="https://imagemagick.org/" target="_blank" rel="noopener noreferrer">imagemagick</a> .
 you can resize and optimize your images in any sizes you want, TOGETHER!<br>
 Only in One Line :<br>
-<pre>
+<code>
 $statement->optimize($dir,$quality,$sizes);<br>
-</pre>
+</code>
 <br>example1:<br>
 <pre>
 require_once './vendor/autoload.php';
